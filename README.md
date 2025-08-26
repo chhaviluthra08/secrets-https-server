@@ -24,6 +24,7 @@ If the correct password is entered, a secret page is revealed. 🚀
 ├── index.js         # Main server file
 ├── package.json
 └── README.md
+└── License
 
 ````
 
