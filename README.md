@@ -58,7 +58,7 @@ If the correct password is entered, a secret page is revealed. 🚀
 ---
 
 ## 🔑 Default Password 
-     (You can add your own password too)
+(You can add your own password too)
 
 ```
 ILoveProgramming
